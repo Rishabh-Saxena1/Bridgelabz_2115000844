@@ -84,19 +84,18 @@ This repository contains a series of Java assignments covering fundamental and a
 
 ## ⭕ *Assignment 10* - 06-02-2025  
 ### *Concepts Covered:*  
-✔ this Keyword - Referencing Class Elements  
-✔ static Keyword - Associating Variables & Methods with Class  
-✔ final Keyword - Making Variables Immutable  
-✔ instanceof Operator - Checking Object’s Class Type  
+✔ Single Inheritance: A child class inherits from only one parent class. 
+✔ Multiple Inheritance: A child class inherits from multiple parent classes. 
+✔ Hierarchical Inheritance: A chain of inheritance where a child class inherits from a parent class, which itself inherits from another parent class, creating a hierarchy.  
 
 ---
 
 ## ⭕ *Assignment 11* - 08-02-2025  
 ### *Concepts Covered:*  
-✔ this Keyword - Referencing Class Elements  
-✔ static Keyword - Associating Variables & Methods with Class  
-✔ final Keyword - Making Variables Immutable  
-✔ instanceof Operator - Checking Object’s Class Type  
+✔ Abstraction: Simplifies complex systems by breaking them down into smaller parts 
+✔ Encapsulation: Keeps data and code safe within a class by hiding it from other classes 
+✔ Inheritance: Allows programmers to create new classes that share attributes of existing classes 
+✔ Polymorphism: Allows objects of different classes to perform actions with the same name 
 
 ---
 
