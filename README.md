@@ -82,5 +82,14 @@ This repository contains a series of Java assignments covering fundamental and a
 
 ---
 
+## ⭕ *Assignment 10* - 06-02-2025  
+### *Concepts Covered:*  
+✔ this Keyword - Referencing Class Elements  
+✔ static Keyword - Associating Variables & Methods with Class  
+✔ final Keyword - Making Variables Immutable  
+✔ instanceof Operator - Checking Object’s Class Type  
+
+---
+
 This repository serves as a great resource for learning Java fundamentals in a structured manner. 🚀  
 Feel free to explore and practice the assignments!
